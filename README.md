@@ -20,3 +20,4 @@ Editor de texto - Exemplo: Sublime Text, Notepad++, WebStorm, etc.
 
 * **Alexandre Lara** - [thealexandrelara](https://github.com/thealexandrelara)
 * **Bruno Andrade** - [BrunoVieiraAndrade](https://github.com/BrunoVieiraAndrade)
+* **Christiano Teixeira** - [christianotx](https://github.com/christianotx)
