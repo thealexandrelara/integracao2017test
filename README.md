@@ -23,3 +23,4 @@ Editor de texto - Exemplo: Sublime Text, Notepad++, WebStorm, etc.
 * **Bruno Andrade** - [BrunoVieiraAndrade](https://github.com/BrunoVieiraAndrade)
 * **Christiano Teixeira** - [christianotx](https://github.com/christianotx)
 * **Everton José dos Santos** - [evertongyn](https://github.com/evertongyn)
+* **Fernando Henrique Coimbra Afonso** - [goias5](https://github.com/goias5)
