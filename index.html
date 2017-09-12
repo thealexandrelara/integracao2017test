@@ -17,6 +17,10 @@
     <!-- Custom styles for this template -->
     <link href="css/simple-sidebar.css" rel="stylesheet">
     <link href="css/integracao.css" rel="stylesheet">
+	
+	<link rel="stylesheet" href="css/cartoes.css">
+	<link rel="stylesheet" href="css/iframeDisciplinas.css">
+	<script type="text/javascript" src="scripts/gerenciadorDeDisciplinas.js"></script>
 
 </head>
 
@@ -68,13 +72,7 @@
                     <a href="#">Estrutura curricular</a>
                 </li>
                 <li>
-                    <a href="#">Disciplinas obrigatórias</a>
-                </li>
-                <li>
-                    <a href="#">Disciplinas Optativas</a>
-                </li>
-                <li>
-                    <a href="#">Disciplinas Específicas</a>
+                    <a href="#disciplinas">Disciplinas</a>
                 </li>
             </ul>
         </div>
@@ -99,9 +97,6 @@
                     </div>
                     <!-- Content -->
                 </div>
-
-
-
 
                 <h1>Apresentação</h1>
 
@@ -143,6 +138,56 @@
 
             </div>
         </div>
+		
+		<!-- Disciplinas -->
+        <div id="disciplinas">
+		
+		<!-- Cards com os grupos de disciplinas (Obrigatórias, Específicas, Optativas, etc) -->
+		 <div class="card"  id="grupoObrigatorias" onclick="ExibeGrupoObrigatorias()">
+  
+			  <div class="container">
+				<h4><b>Disciplinas Obrigatórias</b></h4>
+			  </div>
+	
+		</div> 
+		
+		 <div class="card"  id="grupoOptativas">
+  
+			  <div class="container">
+				<h4><b>Disciplinas Optativas</b></h4>
+			  </div>
+	
+		</div> 
+		
+		<div class="card"  id="grupoEspecificas">
+  
+			  <div class="container">
+				<h4><b>Disciplinas Específicas</b></h4>
+			  </div>
+	
+		</div> 
+		
+		<!-- Cards que representam as disciplinas -->
+		<div class="card" id="calculo1A" style = "display: none;" onclick="ExibeIFrame('ifrCalculo1A', 'disciplinas/calculo1A.html')">
+  
+			  <div class="container">
+				<h4><b>Cálculo 1A</b></h4>
+				<iframe id='ifrCalculo1A' width="560" height="315" style="border:none; visibility:hidden;"></iframe>
+			  </div>
+			  
+		</div> 
+
+		 <div class="card" id="fundamentosMatematica" style = "display: none">
+		  
+			  <div class="container">
+				<h4><b>Fundamentos da Matemática</b></h4>
+			  </div>
+			  
+		</div> 
+
+		
+		</div>
+		
         <!-- /#page-content-wrapper -->
 
     </div>
