@@ -11,7 +11,7 @@
         "periodo": "1°",
         "unidade": "INF",
         "obrigatoria": "Sim",
-        "preRequisito:": [],
+        "prerequisito:": [],
         "ementa": [
             "1. História da computação.",
             "2. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente.",
@@ -35,7 +35,7 @@
         "periodo": "1°",
         "unidade": "INF",
         "obrigatoria": "Sim",
-        "preRequisito:": [],
+        "prerequisito:": [],
         "ementa": [
             "1. Introdução a algoritmos.",
             "2. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição.",
@@ -59,7 +59,7 @@
         "periodo": "1°",
         "unidade": "IME",
         "obrigatoria": "Sim",
-        "preRequisito:": [],
+        "prerequisito:": [],
         "ementa": [
             "1. Números reais. Funções reais de uma variável real e suas inversas.",
             "2. Noções sobre cônicas.",
@@ -81,7 +81,7 @@
         "periodo": "1°",
         "unidade": "INF",
         "obrigatoria": "Sim",
-        "preRequisito:": [],
+        "prerequisito:": [],
         "ementa": [
             "1. Noções de lógica.",
             "2. Introdução a demonstrações",
@@ -102,7 +102,7 @@
         "periodo": "2°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D4"],
+        "prerequisito:": ["D4"],
         "ementa": [
             "1. Visão geral dos computadores modernos.",
             "2. Evolução da arquitetura dos computadores.",
@@ -127,7 +127,7 @@
         "periodo": "2°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D2"],
+        "prerequisito:": ["D2"],
         "ementa": [
             "1. Noções de complexidade de algoritmos (notações de complexidade).",
             "2. Algoritmos de pesquisa: pesquisa sequencial e binária.",
@@ -148,7 +148,7 @@
         "periodo": "2°",
         "unidade": "IME",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D3"],
+        "prerequisito:": ["D3"],
         "ementa": [
             "1. Estatística descritiva. Noções sobre amostragem.",
             "2. Introdução à teoria de conjuntos.",
@@ -172,7 +172,7 @@
         "periodo": "2°",
         "unidade": "IME",   
         "obrigatoria": "Sim",
-        "preRequisito:": [],
+        "prerequisito:": [],
         "ementa": [
             "1. Sistemas lineares e matrizes.",
             "2. Espaços vetoriais.",
@@ -192,7 +192,7 @@
         "periodo": "2°",
         "unidade": "IME",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D4"],
+        "prerequisito:": ["D4"],
         "ementa": [
             "1. Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais);",
             "2. Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural",
@@ -211,7 +211,7 @@
         "periodo": "3°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D2"],
+        "prerequisito:": ["D2"],
         "ementa": [
             "1. Abstração e tipos abstratos de dados.",
             "2. Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo.",
@@ -231,7 +231,7 @@
         "periodo": "3°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D6"],
+        "prerequisito:": ["D6"],
         "ementa": [
             "1. Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras).",
             "2. Filas de prioridades. Heaps, Heapsort. Hashing: tipos de funções de hashing; tratamento de colisões.",
@@ -251,7 +251,7 @@
         "periodo": "3°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D2"],
+        "prerequisito:": ["D2"],
         "ementa": [
             "1. Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script.",
             "2. Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de aplicação.",
@@ -270,7 +270,7 @@
         "periodo": "3°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": [],
+        "prerequisito:": [],
         "ementa": [
             "1. Requisitos de software.",
             "2. Projeto (design) de software.",
@@ -298,7 +298,7 @@
         "periodo": "4°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D4","D11"],
+        "prerequisito:": ["D4","D11"],
         "ementa": [
             "1. Medidas de complexidade, análise assintótica de limites de complexidade para algoritmos iterativos e recursivos, técnicas de prova de cotas inferiores.",
             "2. Corretude de Algoritmos.",
@@ -318,7 +318,7 @@
         "periodo": "4°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D6","D7"],
+        "prerequisito:": ["D6","D7"],
         "ementa": [
             "1. Aspectos gerais sobre interação humano-computador.",
             "2. Características humanísticas e biológicas, envolvendo questões sobre genealogia, gênero, aspectos étnicos, raciais e culturais, direitos e aspectos políticos, deficiências, limitações e capacidades, dentre outros.",
@@ -343,7 +343,7 @@
         "periodo": "4°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D9"],
+        "prerequisito:": ["D9"],
         "ementa": [
             "1. Conceitos básicos de Banco de Dados.",
             "2. Modelo relacional.",
@@ -364,7 +364,7 @@
         "periodo": "4°",
         "unidade": "INF",   
         "obrigatoria": "Sim",
-        "preRequisito:": ["D10","D13"],
+        "prerequisito:": ["D10","D13"],
         "ementa": [
             "1. Fundamentos de design de software.",
             "2. Questões básicas de design de software: concorrência, controle e tratamento de eventos, persistência de dados, distribuição, tratamento de erro e exceção, tolerância a falhas, interação e apresentação, e segurança. Estrutura e arquitetura de software.",
