@@ -1,505 +1,508 @@
 /*Tópicos do Swebok*/
-{
-    "id":"001",
-    "nome":"Fundamentos de requisitos de software"
-},
-
-{
-    "id":"002",
-    "nome":"Processo de requisitos"
-},
-
-{
-    "id":"003",
-    "nome":"Elicitação de requisitos"
-},
-
-{
-    "id":"004",
-    "nome":"Análise de requisitos"
-},
-
-{
-    "id":"005",
-    "nome":"Especificação de requisitos"
-},
-
-{
-    "id":"006",
-    "nome":"Validação de requisitos"
-},
-
-{
-    "id":"007",
-    "nome":"Considerações práticas"
-},
-
-{
-    "id":"008",
-    "nome":"Ferramentas de requisitos de software"
-},
-
-{
-    "id":"009",
-    "nome":"Fundamentos de design de software"
-},
-
-{
-    "id":"010",
-    "nome":"Pontos chaves no design de software"
-},
-
-{
-    "id":"011",
-    "nome":"Estrutura e arquitetura de software"
-},
-
-{
-    "id":"012",
-    "nome":"Design de interface de usuário (UID)"
-},
-
-{
-    "id":"013",
-    "nome":"Análise e validação de design de software"
-},
-
-{
-    "id":"014",
-    "nome":"Notações de design de software"
-},
-
-{
-    "id":"015",
-    "nome":"Estratégias e métodos de design de software"
-},
-
-{
-    "id":"016",
-    "nome":"Ferramentas de design de software"
-},
-
-{
-    "id":"017",
-    "nome":"Fundamentos de construção de software"
-},
-
-{
-    "id":"018",
-    "nome":"Gerenciamento de construção"
-},
-
-{
-    "id":"019",
-    "nome":"Considerações práticas"
-},
-
-{
-    "id":"020",
-    "nome":"Tecnologias de construção"
-},
-
-{
-    "id":"021",
-    "nome":"Ferramentas de construção de software"
-},
-
-{
-    "id":"022",
-    "nome":"Fundamentos de Teste de Software"
-},
-
-{
-    "id":"023",
-    "nome":"Níveis de Teste"
-},
-
-{
-    "id":"024",
-    "nome":"Técnicas de teste"
-},
-
-{
-    "id":"025",
-    "nome":"Medições relacionadas a teste"
-},
-
-{
-    "id":"026",
-    "nome":"Ferramentas de teste de software"
-},
-
-{
-    "id":"027",
-    "nome":"Fundamentos de Manutenção de Software"
-},
-
-{
-    "id":"028",
-    "nome":"Problemas importantes na manutenção do software"
-},
-
-{
-    "id":"029",
-    "nome":"Processo de manutenção"
-},
-
-{
-    "id":"030",
-    "nome":"Técnicas de manutenção"
-},
-
-{
-    "id":"031",
-    "nome":"Ferramentas de manutenção de software"
-},
-
-{
-    "id":"032",
-    "nome":"Gerenciamento do Processo SCM"
-},
-
-{
-    "id":"033",
-    "nome":"Identificação da Configuração do Software"
-},
-
-{
-    "id":"034",
-    "nome":"Controle de Configuração de Software"
-},
-
-{
-    "id":"035",
-    "nome":"Contabilidade de Status da Configuração de Software"
-},
-
-{
-    "id":"036",
-    "nome":"Auditoria de Configuração de Software"
-},
-
-{
-    "id":"037",
-    "nome":"Gerenciamento e entrega de versão de software"
-},
-
-{
-    "id":"038",
-    "nome":"Ferramentas de Gerenciamento de Configuração de Software"
-},
-
-{
-    "id":"039",
-    "nome":"Iniciação e definição de escopo"
-},
-
-{
-    "id":"040",
-    "nome":"Planejamento do Projeto de Software"
-},
-
-{
-    "id":"041",
-    "nome":"Publicação de Projetos de Software"
-},
-
-{
-    "id":"042",
-    "nome":"Revisão e Avaliação"
-},
-
-{
-    "id":"043",
-    "nome":"Encerramento"
-},
-
-{
-    "id":"044",
-    "nome":"Métricas de Engenharia de Software"
-},
-
-{
-    "id":"045",
-    "nome":"Ferramentas para Gestão de Engenharia de Software"
-},
-
-{
-    "id":"046",
-    "nome":"Definição do Processo de Software"
-},
-
-{
-    "id":"047",
-    "nome":"Ciclo de vida do Software"
-},
-
-{
-    "id":"048",
-    "nome":"Avaliação e Melhoria de Processo de Software"
-},
-
-{
-    "id":"049",
-    "nome":"Medição de Software"
-},
-
-{
-    "id":"050",
-    "nome":"Ferramentas para o Processo de Engenharia de Software"
-},
-
-{
-    "id":"051",
-    "nome":"Modelagem"
-},
-
-{
-    "id":"052",
-    "nome":"Tipos de Modelos"
-},
-
-{
-    "id":"053",
-    "nome":"Análise de Modelos"
-},
-
-{
-    "id":"054",
-    "nome":"Métodos de Engenharia de Software"
-},
-
-{
-    "id":"055",
-    "nome":"Fundamentos de qualidade de software"
-},
-
-{
-    "id":"056",
-    "nome":"Processo de gerenciamento de qualidade de software"
-},
-
-{
-    "id":"057",
-    "nome":"Considerações práticas"
-},
-
-{
-    "id":"058",
-    "nome":"Ferramentas de qualidade de sofware"
-},
-
-{
-    "id":"059",
-    "nome":"Profissionalismo"
-},
-
-{
-    "id":"060",
-    "nome":"Dinâmicas de grupo e psicologia"
-},
-
-{
-    "id":"061",
-    "nome":"Habilidades de comunicação"
-},
-
-{
-    "id":"062",
-    "nome":"Financeiro"
-},
-
-{
-    "id":"063",
-    "nome":"Ciclo de vida da economia"
-},
-
-{
-    "id":"064",
-    "nome":"Risco e Incerteza"
-},
-
-{
-    "id":"065",
-    "nome":"Métodos de análise econômica"
-},
-
-{
-    "id":"066",
-    "nome":"Considerações práticas"
-},
-
-{
-    "id":"067",
-    "nome":"Técnicas de solução de problemas"
-},
-
-{
-    "id":"068",
-    "nome":"Abstração"
-},
-
-{
-    "id":"069",
-    "nome":"Fundamentos de programação"
-},
-
-{
-    "id":"070",
-    "nome":"Conceitos básicos de linguagem de programação"
-},
-
-{
-    "id":"071",
-    "nome":"Técnicas e ferramentas de debugging"
-},
-
-{
-    "id":"072",
-    "nome":"Estrutura de dados e representação"
-},
-
-{
-    "id":"073",
-    "nome":"Algoritmos e complexidade"
-},
-
-{
-    "id":"074",
-    "nome":"Conceitos básicos de sistema"
-},
-
-{
-    "id":"075",
-    "nome":"Organização computacional"
-},
-
-{
-    "id":"076",
-    "nome":"Conceitos básicos de compilador"
-},
-
-{
-    "id":"077",
-    "nome":"Conceitos de sistemas operacionais"
-},
-
-{
-    "id":"078",
-    "nome":"Conceitos básicos de banco de dados e gerência de dados"
-},
-
-{
-    "id":"079",
-    "nome":"Conceitos básicos de redes de comunicação"
-},
-
-{
-    "id":"080",
-    "nome":"Computação paralela e distribuida"
-},
-
-{
-    "id":"081",
-    "nome":"Fatores básicos do usuário"
-},
-
-{
-    "id":"082",
-    "nome":"Fatores básicos do desenvolvedor"
-},
-
-{
-    "id":"083",
-    "nome":"Desenvolvimento de software seguro e Manutenção"
-},
-
-{
-    "id":"084",
-    "nome":"Configurações, Relações, Funções"
-},
-
-{
-    "id":"085",
-    "nome":"Lógica Basica"
-},
-
-{
-    "id":"086",
-    "nome":"Técnicas de Resistências"
-},
-
-{
-    "id":"087",
-    "nome":"Básicos de contatos"
-},
-
-{
-    "id":"088",
-    "nome":"Gráficos e Arvores"
-},
-
-{
-    "id":"089",
-    "nome":"Probabilidade Discreta"
-},
-
-{
-    "id":"090",
-    "nome":"Maquinas de estado final"
-},
-
-{
-    "id":"091",
-    "nome":"Grammars"
-},
-
-{
-    "id":"092",
-    "nome":"Precisão Numérica, Acurácia, e Erros"
-},
-
-{
-    "id":"093",
-    "nome":"Teoria Numérica"
-},
-
-{
-    "id":"094",
-    "nome":"Estruturas Algebricas"
-},
-
-{
-    "id":"095",
-    "nome":"Metodos Empíricos e Técnicas Experimentais"
-},
-
-{
-    "id":"096",
-    "nome":"Análise Estática"
-},
-
-{
-    "id":"097",
-    "nome":"Medição"
-},
-
-{
-    "id":"098",
-    "nome":"Design de engenharia"
-},
-
-{
-    "id":"099",
-    "nome":"Modelagem, Simulação e Prototipagem"
-},
-
-{
-    "id":"100",
-    "nome":"Padrões"
-},
-
-{
-    "id":"101",
-    "nome":"Análise de causa raiz"
-},
+[
+    {
+        "id":"001",
+        "nome":"Fundamentos de requisitos de software"
+    },
+
+    {
+        "id":"002",
+        "nome":"Processo de requisitos"
+    },
+
+    {
+        "id":"003",
+        "nome":"Elicitação de requisitos"
+    },
+
+    {
+        "id":"004",
+        "nome":"Análise de requisitos"
+    },
+
+    {
+        "id":"005",
+        "nome":"Especificação de requisitos"
+    },
+
+    {
+        "id":"006",
+        "nome":"Validação de requisitos"
+    },
+
+    {
+        "id":"007",
+        "nome":"Considerações práticas"
+    },
+
+    {
+        "id":"008",
+        "nome":"Ferramentas de requisitos de software"
+    },
+
+    {
+        "id":"009",
+        "nome":"Fundamentos de design de software"
+    },
+
+    {
+        "id":"010",
+        "nome":"Pontos chaves no design de software"
+    },
+
+    {
+        "id":"011",
+        "nome":"Estrutura e arquitetura de software"
+    },
+
+    {
+        "id":"012",
+        "nome":"Design de interface de usuário (UID)"
+    },
+
+    {
+        "id":"013",
+        "nome":"Análise e validação de design de software"
+    },
+
+    {
+        "id":"014",
+        "nome":"Notações de design de software"
+    },
+
+    {
+        "id":"015",
+        "nome":"Estratégias e métodos de design de software"
+    },
+
+    {
+        "id":"016",
+        "nome":"Ferramentas de design de software"
+    },
+
+    {
+        "id":"017",
+        "nome":"Fundamentos de construção de software"
+    },
+
+    {
+        "id":"018",
+        "nome":"Gerenciamento de construção"
+    },
+
+    {
+        "id":"019",
+        "nome":"Considerações práticas"
+    },
+
+    {
+        "id":"020",
+        "nome":"Tecnologias de construção"
+    },
+
+    {
+        "id":"021",
+        "nome":"Ferramentas de construção de software"
+    },
+
+    {
+        "id":"022",
+        "nome":"Fundamentos de Teste de Software"
+    },
+
+    {
+        "id":"023",
+        "nome":"Níveis de Teste"
+    },
+
+    {
+        "id":"024",
+        "nome":"Técnicas de teste"
+    },
+
+    {
+        "id":"025",
+        "nome":"Medições relacionadas a teste"
+    },
+
+    {
+        "id":"026",
+        "nome":"Ferramentas de teste de software"
+    },
+
+    {
+        "id":"027",
+        "nome":"Fundamentos de Manutenção de Software"
+    },
+
+    {
+        "id":"028",
+        "nome":"Problemas importantes na manutenção do software"
+    },
+
+    {
+        "id":"029",
+        "nome":"Processo de manutenção"
+    },
+
+    {
+        "id":"030",
+        "nome":"Técnicas de manutenção"
+    },
+
+    {
+        "id":"031",
+        "nome":"Ferramentas de manutenção de software"
+    },
+
+    {
+        "id":"032",
+        "nome":"Gerenciamento do Processo SCM"
+    },
+
+    {
+        "id":"033",
+        "nome":"Identificação da Configuração do Software"
+    },
+
+    {
+        "id":"034",
+        "nome":"Controle de Configuração de Software"
+    },
+
+    {
+        "id":"035",
+        "nome":"Contabilidade de Status da Configuração de Software"
+    },
+
+    {
+        "id":"036",
+        "nome":"Auditoria de Configuração de Software"
+    },
+
+    {
+        "id":"037",
+        "nome":"Gerenciamento e entrega de versão de software"
+    },
+
+    {
+        "id":"038",
+        "nome":"Ferramentas de Gerenciamento de Configuração de Software"
+    },
+
+    {
+        "id":"039",
+        "nome":"Iniciação e definição de escopo"
+    },
+
+    {
+        "id":"040",
+        "nome":"Planejamento do Projeto de Software"
+    },
+
+    {
+        "id":"041",
+        "nome":"Publicação de Projetos de Software"
+    },
+
+    {
+        "id":"042",
+        "nome":"Revisão e Avaliação"
+    },
+
+    {
+        "id":"043",
+        "nome":"Encerramento"
+    },
+
+    {
+        "id":"044",
+        "nome":"Métricas de Engenharia de Software"
+    },
+
+    {
+        "id":"045",
+        "nome":"Ferramentas para Gestão de Engenharia de Software"
+    },
+
+    {
+        "id":"046",
+        "nome":"Definição do Processo de Software"
+    },
+
+    {
+        "id":"047",
+        "nome":"Ciclo de vida do Software"
+    },
+
+    {
+        "id":"048",
+        "nome":"Avaliação e Melhoria de Processo de Software"
+    },
+
+    {
+        "id":"049",
+        "nome":"Medição de Software"
+    },
+
+    {
+        "id":"050",
+        "nome":"Ferramentas para o Processo de Engenharia de Software"
+    },
+
+    {
+        "id":"051",
+        "nome":"Modelagem"
+    },
+
+    {
+        "id":"052",
+        "nome":"Tipos de Modelos"
+    },
+
+    {
+        "id":"053",
+        "nome":"Análise de Modelos"
+    },
+
+    {
+        "id":"054",
+        "nome":"Métodos de Engenharia de Software"
+    },
+
+    {
+        "id":"055",
+        "nome":"Fundamentos de qualidade de software"
+    },
+
+    {
+        "id":"056",
+        "nome":"Processo de gerenciamento de qualidade de software"
+    },
+
+    {
+        "id":"057",
+        "nome":"Considerações práticas"
+    },
+
+    {
+        "id":"058",
+        "nome":"Ferramentas de qualidade de sofware"
+    },
+
+    {
+        "id":"059",
+        "nome":"Profissionalismo"
+    },
+
+    {
+        "id":"060",
+        "nome":"Dinâmicas de grupo e psicologia"
+    },
+
+    {
+        "id":"061",
+        "nome":"Habilidades de comunicação"
+    },
+
+    {
+        "id":"062",
+        "nome":"Financeiro"
+    },
+
+    {
+        "id":"063",
+        "nome":"Ciclo de vida da economia"
+    },
+
+    {
+        "id":"064",
+        "nome":"Risco e Incerteza"
+    },
+
+    {
+        "id":"065",
+        "nome":"Métodos de análise econômica"
+    },
+
+    {
+        "id":"066",
+        "nome":"Considerações práticas"
+    },
+
+    {
+        "id":"067",
+        "nome":"Técnicas de solução de problemas"
+    },
+
+    {
+        "id":"068",
+        "nome":"Abstração"
+    },
+
+    {
+        "id":"069",
+        "nome":"Fundamentos de programação"
+    },
+
+    {
+        "id":"070",
+        "nome":"Conceitos básicos de linguagem de programação"
+    },
+
+    {
+        "id":"071",
+        "nome":"Técnicas e ferramentas de debugging"
+    },
+
+    {
+        "id":"072",
+        "nome":"Estrutura de dados e representação"
+    },
+
+    {
+        "id":"073",
+        "nome":"Algoritmos e complexidade"
+    },
+
+    {
+        "id":"074",
+        "nome":"Conceitos básicos de sistema"
+    },
+
+    {
+        "id":"075",
+        "nome":"Organização computacional"
+    },
+
+    {
+        "id":"076",
+        "nome":"Conceitos básicos de compilador"
+    },
+
+    {
+        "id":"077",
+        "nome":"Conceitos de sistemas operacionais"
+    },
+
+    {
+        "id":"078",
+        "nome":"Conceitos básicos de banco de dados e gerência de dados"
+    },
+
+    {
+        "id":"079",
+        "nome":"Conceitos básicos de redes de comunicação"
+    },
+
+    {
+        "id":"080",
+        "nome":"Computação paralela e distribuida"
+    },
+
+    {
+        "id":"081",
+        "nome":"Fatores básicos do usuário"
+    },
+
+    {
+        "id":"082",
+        "nome":"Fatores básicos do desenvolvedor"
+    },
+
+    {
+        "id":"083",
+        "nome":"Desenvolvimento de software seguro e Manutenção"
+    },
+
+    {
+        "id":"084",
+        "nome":"Configurações, Relações, Funções"
+    },
+
+    {
+        "id":"085",
+        "nome":"Lógica Basica"
+    },
+
+    {
+        "id":"086",
+        "nome":"Técnicas de Resistências"
+    },
+
+    {
+        "id":"087",
+        "nome":"Básicos de contatos"
+    },
+
+    {
+        "id":"088",
+        "nome":"Gráficos e Arvores"
+    },
+
+    {
+        "id":"089",
+        "nome":"Probabilidade Discreta"
+    },
+
+    {
+        "id":"090",
+        "nome":"Maquinas de estado final"
+    },
+
+    {
+        "id":"091",
+        "nome":"Grammars"
+    },
+
+    {
+        "id":"092",
+        "nome":"Precisão Numérica, Acurácia, e Erros"
+    },
+
+    {
+        "id":"093",
+        "nome":"Teoria Numérica"
+    },
+
+    {
+        "id":"094",
+        "nome":"Estruturas Algebricas"
+    },
+
+    {
+        "id":"095",
+        "nome":"Metodos Empíricos e Técnicas Experimentais"
+    },
+
+    {
+        "id":"096",
+        "nome":"Análise Estática"
+    },
+
+    {
+        "id":"097",
+        "nome":"Medição"
+    },
+
+    {
+        "id":"098",
+        "nome":"Design de engenharia"
+    },
+
+    {
+        "id":"099",
+        "nome":"Modelagem, Simulação e Prototipagem"
+    },
+
+    {
+        "id":"100",
+        "nome":"Padrões"
+    },
+
+    {
+        "id":"101",
+        "nome":"Análise de causa raiz"
+    },
+    
+]
