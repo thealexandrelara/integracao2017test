@@ -1,508 +1,515 @@
-/*Tópicos do Swebok*/
 [
+    /*Tópicos do Swebok*/
     {
-        "id":"001",
-        "nome":"Fundamentos de requisitos de software"
+        "id": "001",
+        "nome": "Fundamentos de requisitos de software",
+        "idDisciplinasPpc":["",""]
     },
 
     {
-        "id":"002",
-        "nome":"Processo de requisitos"
+        "id": "002",
+        "nome": "Processo de requisitos",
+        "idDisciplinasPpc":["",""]
     },
 
     {
-        "id":"003",
-        "nome":"Elicitação de requisitos"
+        "id": "003",
+        "nome": "Elicitação de requisitos",
+        "idDisciplinasPpc":["",""]
     },
 
     {
-        "id":"004",
-        "nome":"Análise de requisitos"
+        "id": "004",
+        "nome": "Análise de requisitos",
+        "idDisciplinasPpc":["",""]
     },
 
     {
-        "id":"005",
-        "nome":"Especificação de requisitos"
+        "id": "005",
+        "nome": "Especificação de requisitos",
+        "idDisciplinasPpc":["",""]
     },
 
     {
-        "id":"006",
-        "nome":"Validação de requisitos"
+        "id": "006",
+        "nome": "Validação de requisitos",
+        "idDisciplinasPpc":["",""]
     },
 
     {
-        "id":"007",
-        "nome":"Considerações práticas"
+        "id": "007",
+        "nome": "Considerações práticas",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"008",
-        "nome":"Ferramentas de requisitos de software"
+        "id": "008",
+        "nome": "Ferramentas de requisitos de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"009",
-        "nome":"Fundamentos de design de software"
+        "id": "009",
+        "nome": "Fundamentos de design de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"010",
-        "nome":"Pontos chaves no design de software"
+        "id": "010",
+        "nome": "Pontos chaves no design de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"011",
-        "nome":"Estrutura e arquitetura de software"
+        "id": "011",
+        "nome": "Estrutura e arquitetura de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"012",
-        "nome":"Design de interface de usuário (UID)"
+        "id": "012",
+        "nome": "Design de interface de usuário (UID)",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"013",
-        "nome":"Análise e validação de design de software"
-    },
+        "id": "013",
+        "nome": "Análise e validação de design de software",
+        "idDisciplinasPpc":["",""]
 
-    {
-        "id":"014",
-        "nome":"Notações de design de software"
     },
-
     {
-        "id":"015",
-        "nome":"Estratégias e métodos de design de software"
+        "id": "014",
+        "nome": "Notações de design de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"016",
-        "nome":"Ferramentas de design de software"
+        "id": "015",
+        "nome": "Estratégias e métodos de design de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"017",
-        "nome":"Fundamentos de construção de software"
+        "id": "016",
+        "nome": "Ferramentas de design de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"018",
-        "nome":"Gerenciamento de construção"
+        "id": "017",
+        "nome": "Fundamentos de construção de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"019",
-        "nome":"Considerações práticas"
+        "id": "018",
+        "nome": "Gerenciamento de construção",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"020",
-        "nome":"Tecnologias de construção"
+        "id": "019",
+        "nome": "Considerações práticas",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"021",
-        "nome":"Ferramentas de construção de software"
+        "id": "020",
+        "nome": "Tecnologias de construção",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"022",
-        "nome":"Fundamentos de Teste de Software"
+        "id": "021",
+        "nome": "Ferramentas de construção de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"023",
-        "nome":"Níveis de Teste"
+        "id": "022",
+        "nome": "Fundamentos de Teste de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"024",
-        "nome":"Técnicas de teste"
+        "id": "023",
+        "nome": "Níveis de Teste",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"025",
-        "nome":"Medições relacionadas a teste"
+        "id": "024",
+        "nome": "Técnicas de teste",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"026",
-        "nome":"Ferramentas de teste de software"
+        "id": "025",
+        "nome": "Medições relacionadas a teste",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"027",
-        "nome":"Fundamentos de Manutenção de Software"
+        "id": "026",
+        "nome": "Ferramentas de teste de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"028",
-        "nome":"Problemas importantes na manutenção do software"
+        "id": "027",
+        "nome": "Fundamentos de Manutenção de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"029",
-        "nome":"Processo de manutenção"
+        "id": "028",
+        "nome": "Problemas importantes na manutenção do software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"030",
-        "nome":"Técnicas de manutenção"
+        "id": "029",
+        "nome": "Processo de manutenção",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"031",
-        "nome":"Ferramentas de manutenção de software"
+        "id": "030",
+        "nome": "Técnicas de manutenção",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"032",
-        "nome":"Gerenciamento do Processo SCM"
+        "id": "031",
+        "nome": "Ferramentas de manutenção de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"033",
-        "nome":"Identificação da Configuração do Software"
+        "id": "032",
+        "nome": "Gerenciamento do Processo SCM",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"034",
-        "nome":"Controle de Configuração de Software"
+        "id": "033",
+        "nome": "Identificação da Configuração do Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"035",
-        "nome":"Contabilidade de Status da Configuração de Software"
+        "id": "034",
+        "nome": "Controle de Configuração de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"036",
-        "nome":"Auditoria de Configuração de Software"
+        "id": "035",
+        "nome": "Contabilidade de Status da Configuração de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"037",
-        "nome":"Gerenciamento e entrega de versão de software"
+        "id": "036",
+        "nome": "Auditoria de Configuração de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"038",
-        "nome":"Ferramentas de Gerenciamento de Configuração de Software"
+        "id": "037",
+        "nome": "Gerenciamento e entrega de versão de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"039",
-        "nome":"Iniciação e definição de escopo"
+        "id": "038",
+        "nome": "Ferramentas de Gerenciamento de Configuração de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"040",
-        "nome":"Planejamento do Projeto de Software"
+        "id": "039",
+        "nome": "Iniciação e definição de escopo",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"041",
-        "nome":"Publicação de Projetos de Software"
+        "id": "040",
+        "nome": "Planejamento do Projeto de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"042",
-        "nome":"Revisão e Avaliação"
+        "id": "041",
+        "nome": "Publicação de Projetos de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"043",
-        "nome":"Encerramento"
+        "id": "042",
+        "nome": "Revisão e Avaliação",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"044",
-        "nome":"Métricas de Engenharia de Software"
+        "id": "043",
+        "nome": "Encerramento",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"045",
-        "nome":"Ferramentas para Gestão de Engenharia de Software"
+        "id": "044",
+        "nome": "Métricas de Engenharia de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"046",
-        "nome":"Definição do Processo de Software"
+        "id": "045",
+        "nome": "Ferramentas para Gestão de Engenharia de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"047",
-        "nome":"Ciclo de vida do Software"
+        "id": "046",
+        "nome": "Definição do Processo de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"048",
-        "nome":"Avaliação e Melhoria de Processo de Software"
+        "id": "047",
+        "nome": "Ciclo de vida do Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"049",
-        "nome":"Medição de Software"
+        "id": "048",
+        "nome": "Avaliação e Melhoria de Processo de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"050",
-        "nome":"Ferramentas para o Processo de Engenharia de Software"
+        "id": "049",
+        "nome": "Medição de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"051",
-        "nome":"Modelagem"
+        "id": "050",
+        "nome": "Ferramentas para o Processo de Engenharia de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"052",
-        "nome":"Tipos de Modelos"
+        "id": "051",
+        "nome": "Modelagem",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"053",
-        "nome":"Análise de Modelos"
+        "id": "052",
+        "nome": "Tipos de Modelos",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"054",
-        "nome":"Métodos de Engenharia de Software"
+        "id": "053",
+        "nome": "Análise de Modelos",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"055",
-        "nome":"Fundamentos de qualidade de software"
+        "id": "054",
+        "nome": "Métodos de Engenharia de Software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"056",
-        "nome":"Processo de gerenciamento de qualidade de software"
+        "id": "055",
+        "nome": "Fundamentos de qualidade de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"057",
-        "nome":"Considerações práticas"
+        "id": "056",
+        "nome": "Processo de gerenciamento de qualidade de software",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"058",
-        "nome":"Ferramentas de qualidade de sofware"
+        "id": "057",
+        "nome": "Considerações práticas",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"059",
-        "nome":"Profissionalismo"
+        "id": "058",
+        "nome": "Ferramentas de qualidade de sofware",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"060",
-        "nome":"Dinâmicas de grupo e psicologia"
+        "id": "059",
+        "nome": "Profissionalismo",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"061",
-        "nome":"Habilidades de comunicação"
+        "id": "060",
+        "nome": "Dinâmicas de grupo e psicologia",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"062",
-        "nome":"Financeiro"
+        "id": "061",
+        "nome": "Habilidades de comunicação",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"063",
-        "nome":"Ciclo de vida da economia"
+        "id": "062",
+        "nome": "Financeiro",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"064",
-        "nome":"Risco e Incerteza"
+        "id": "063",
+        "nome": "Ciclo de vida da economia",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"065",
-        "nome":"Métodos de análise econômica"
+        "id": "064",
+        "nome": "Risco e Incerteza",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"066",
-        "nome":"Considerações práticas"
+        "id": "065",
+        "nome": "Métodos de análise econômica",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"067",
-        "nome":"Técnicas de solução de problemas"
+        "id": "066",
+        "nome": "Considerações práticas",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"068",
-        "nome":"Abstração"
+        "id": "067",
+        "nome": "Técnicas de solução de problemas",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"069",
-        "nome":"Fundamentos de programação"
+        "id": "068",
+        "nome": "Abstração",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"070",
-        "nome":"Conceitos básicos de linguagem de programação"
+        "id": "069",
+        "nome": "Fundamentos de programação",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"071",
-        "nome":"Técnicas e ferramentas de debugging"
+        "id": "070",
+        "nome": "Conceitos básicos de linguagem de programação",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"072",
-        "nome":"Estrutura de dados e representação"
+        "id": "071",
+        "nome": "Técnicas e ferramentas de debugging",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"073",
-        "nome":"Algoritmos e complexidade"
+        "id": "072",
+        "nome": "Estrutura de dados e representação",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"074",
-        "nome":"Conceitos básicos de sistema"
+        "id": "073",
+        "nome": "Algoritmos e complexidade",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"075",
-        "nome":"Organização computacional"
+        "id": "074",
+        "nome": "Conceitos básicos de sistema",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"076",
-        "nome":"Conceitos básicos de compilador"
+        "id": "075",
+        "nome": "Organização computacional",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"077",
-        "nome":"Conceitos de sistemas operacionais"
+        "id": "076",
+        "nome": "Conceitos básicos de compilador",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"078",
-        "nome":"Conceitos básicos de banco de dados e gerência de dados"
+        "id": "077",
+        "nome": "Conceitos de sistemas operacionais",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"079",
-        "nome":"Conceitos básicos de redes de comunicação"
+        "id": "078",
+        "nome": "Conceitos básicos de banco de dados e gerência de dados",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"080",
-        "nome":"Computação paralela e distribuida"
+        "id": "079",
+        "nome": "Conceitos básicos de redes de comunicação",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"081",
-        "nome":"Fatores básicos do usuário"
+        "id": "080",
+        "nome": "Computação paralela e distribuida",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"082",
-        "nome":"Fatores básicos do desenvolvedor"
+        "id": "081",
+        "nome": "Fatores básicos do usuário",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"083",
-        "nome":"Desenvolvimento de software seguro e Manutenção"
+        "id": "082",
+        "nome": "Fatores básicos do desenvolvedor",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"084",
-        "nome":"Configurações, Relações, Funções"
+        "id": "083",
+        "nome": "Desenvolvimento de software seguro e Manutenção",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"085",
-        "nome":"Lógica Basica"
+        "id": "084",
+        "nome": "Configurações, Relações, Funções",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"086",
-        "nome":"Técnicas de Resistências"
+        "id": "085",
+        "nome": "Lógica Basica",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"087",
-        "nome":"Básicos de contatos"
+        "id": "086",
+        "nome": "Técnicas de Resistências",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"088",
-        "nome":"Gráficos e Arvores"
+        "id": "087",
+        "nome": "Básicos de contatos",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"089",
-        "nome":"Probabilidade Discreta"
+        "id": "088",
+        "nome": "Gráficos e Arvores",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"090",
-        "nome":"Maquinas de estado final"
+        "id": "089",
+        "nome": "Probabilidade Discreta",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"091",
-        "nome":"Grammars"
+        "id": "090",
+        "nome": "Maquinas de estado final",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"092",
-        "nome":"Precisão Numérica, Acurácia, e Erros"
+        "id": "091",
+        "nome": "Grammars",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"093",
-        "nome":"Teoria Numérica"
+        "id": "092",
+        "nome": "Precisão Numérica, Acurácia, e Erros",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"094",
-        "nome":"Estruturas Algebricas"
+        "id": "093",
+        "nome": "Teoria Numérica",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"095",
-        "nome":"Metodos Empíricos e Técnicas Experimentais"
+        "id": "094",
+        "nome": "Estruturas Algebricas",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"096",
-        "nome":"Análise Estática"
+        "id": "095",
+        "nome": "Metodos Empíricos e Técnicas Experimentais",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"097",
-        "nome":"Medição"
+        "id": "096",
+        "nome": "Análise Estática",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"098",
-        "nome":"Design de engenharia"
+        "id": "097",
+        "nome": "Medição",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"099",
-        "nome":"Modelagem, Simulação e Prototipagem"
+        "id": "098",
+        "nome": "Design de engenharia",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"100",
-        "nome":"Padrões"
+        "id": "099",
+        "nome": "Modelagem, Simulação e Prototipagem",
+        "idDisciplinasPpc":["",""]
     },
-
     {
-        "id":"101",
-        "nome":"Análise de causa raiz"
+        "id": "100",
+        "nome": "Padrões",
+        "idDisciplinasPpc":["",""]
     },
-    
+    {
+        "id": "101",
+        "nome": "Análise de causa raiz",
+        "idDisciplinasPpc":["",""]
+    }
 ]
