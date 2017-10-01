@@ -7,6 +7,8 @@ $(document).ready(function(){
   $('li:has(a[href="#apresentacao"])').click(function () {
     $('#target').load('views/pages/home.html');
     $('#breadcrumbs').html(generateBreadcrumbs(["Home", "Apresentação"]))
+	//var pagina = document.getElementById('target').firstChild.nodeValue;
+	//pagina.getElementById('conteudo').innerHTML = "Teste"
   })
 
   // Handle click on Contexto button of the navbar
