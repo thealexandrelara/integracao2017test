@@ -521,3 +521,564 @@
             "(Faz com orientação). Fazer uso de medidas de qualidade de projeto de software.",
             "(Segue instruções). Criar projeto de software a partir de um problema."
         ]
+    },
+    {
+        "id": "D23",
+        "nome": "Domínios de Software",
+        "nucleo": "NC",
+        "teo": 16,
+        "pra": 48,
+        "total": 64,
+        "periodo": "6°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Visão ampla de domínios de desenvolvimento (4h): sistemas, componentes e a relação entre eles.",
+            "2. Especificidades de alguns domínios de desenvolvimento (8h).",
+            "3. Especificidades de um domínio (12h): requisitos, projeto, construção.",
+            "4. Desenvolvimento de software em um domínio (ênfase na construção) (40h)."
+        ],
+        "condicoesMinimas": [
+            "(Faz com orientação). Explicar a construção de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+            "(Faz com orientação). Usar e configurar ferramentas para edição, documentação, compilação, depuração (debugging), build, teste, controle de versão, coleta de medidas (desempenho, consumo de memória, análise estática e cobertura), integração contínua, e aplicativos fundamentais de linha de comandos.",
+            "(Faz com orientação). Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
+            "(Segue instruções). Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+            "(Segue instruções). Detalhar projeto (design) em conformidade com requisitos de software.",
+            "(Segue instruções). Colaborar com a construção de código em equipe.",
+            "(Segue instruções). Explicar domínios de desenvolvimento (categorias) e as especificidades correspondentes.",
+            "(Segue instruções). Explicar um domínio de software e as estratégias de desenvolvimento correspondentes."
+        ]
+    },
+    {
+        "id": "D24",
+        "nome": "Processos de Qualidade de Software",
+        "nucleo": "NC",
+        "teo": 48,
+        "pra": 16,
+        "total": 64,
+        "periodo": "6°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Visão Geral de Qualidade de Software (4h): custos e impactos da qualidade de software, questões éticas e culturais da qualidade de software.",
+            "2. Processo de garantia da qualidade de software (IOh): garantia do produto e garantia do processo.",
+            "3. Processo de Verificação e Validação de Software (36h): requisito, projeto (design), código, integração, documentação.",
+            "4. Processos de Revisão e Auditoria de Software (14h): revisões gerenciais e revisões técnicas."
+        ],
+        "condicoesMinimas": [
+            "(Faz sem orientação). Explicar processos de qualidade de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+            "(Faz com orientação). Explicar a diferença e a relação entre a garantia do produto e a garantia do processo.",
+            "(Segue instruções). Usar um processo da garantia da qualidade de software,",
+            "(Segue instruções). Usar um processo para a verificação e validação de software.",
+            "(Segue instruções). Usar um processo para a revisão e auditoria de software.",
+            "(Faz sem orientação). Colaborar em uma equipe na execução de um processo de qualidade.",
+            "(Segue instruções). Documentar resultados dos processos de qualidade de software.",
+            "(Segue instruções). Identificar e utilizar ferramentas de ap010 ao controle de qualidade de artefatos de software."
+        ]
+    },
+    {
+        "id": "D25",
+        "nome": "Gerência de Projeto de Software",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "6°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Projeto e gerência de projeto (4h): ciclo de vida de produto, serviço e projeto; partes interessadas (stakeholders); correlação entre projetos, operações e programas; gerência de portfólio de projetos; escritório de projetos (PMO).",
+            "2. Tipos de projeto de software (4h): aquisição, desenvolvimento, refatoração, descontinuação.",
+            "3. Tipos de ciclo de vida de projeto de software (4h): preditivo, iterativo, adaptativo; processos empíricos e processos definidos e sua relação com métodos ágeis e métodos planejados para gerência de projeto de software.",
+            "4. Modelos de qualidade de processo de gerência de projeto de software (4h).",
+            "5. Áreas de conhecimento da gerência de projetos aplicadas a projetos de software (48h): escopo, tempo, custo, qualidade, recursos humanos, comunicações, riscos, aquisições, integração e partes interessadas."
+        ],
+        "condicoesMinimas": [
+            "(Segue instruções). Usar normas, modelos e ferramentas de gerência de projeto para planejamento e acompanhamento de projeto de software.",
+            "(Faz com orientação). Selecionar e implementar o tipo de modelo de processo (dirigido por plano, incremental ou adaptativo) de acordo com as características do contexto do projeto de software.",
+            "(Segue instruções). Selecionar e implementar o tipo de ciclo de vida de software (ou paradigma de engenharia de software - cascata, espiral, iterativo, baseado em modelo de maturidade, etc.) de acordo com as características do contexto do projeto de software."
+        ]
+    },
+    {
+        "id": "D26",
+        "nome": "Software Concorrente e Distribuído",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "7°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Qualidade de produto (4h): escalabilidade, tolerância a falhas, disponibilidade, desempenho.",
+            "2. Conceitos (4h): middleware, distribuição, paralelismo, concorrência, RESTful, web, internet das coisas, contêineres, troca de mensagens, micro-serviços, serviços web.",
+            "3. Métodos para construção de software distribuído e para construção de software concorrente (8h)",
+            "4. Concorrência (16h): paralelismo, aplicações 10-intensive e CPUintensive, thread safe, memória compartilhada, Software Transactional Memory, atores, abordagens para explorar concorrência.",
+            "5. Distribuição (24h): projeto, implementação e uso de interface de programação, RESTful, serviços web e micro-serviços (microservices).",
+            "6. Troca de mensagens (messagi,ng) (8h)"
+        ],
+        "condicoesMinimas": [
+            "(Faz com orientação). Explicar a construção de software, concorrência/distribuição e a relação desses com a engenharia de software e de sistema.",
+            "(Faz com orientação). Usar e configurar ferramentas para edição, documentação, compilação, depuração (debugging), build, teste, controle de versão, coleta de medidas (desempenho, consumo de memória, análise estática e cobertura), integração contínua, e aplicativos fundamentais de linha de comandos.",
+            "(Faz com orientação). Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
+            "(Segue instruções). Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+            "(Segue instruções). Detalhar projeto (design) em conformidade com requisitos de software.",
+            "(Segue instruções). Localizar e reutilizar código (bibliotecas e frameworks).",
+            "(Segue instruções). Colaborar com a construção de código em equipe.",
+            "(Segue instruções). Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.",
+            "(Segue instruções). Explicar conceitos de concorrência e distribuição.",
+            "(Segue instruções). Criar código que faz uso de concorrência, distribuição e ferramentas correlatas."
+        ]
+    },
+    {
+        "id": "D27",
+        "nome": "Experiência do Usuário de Software",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "7°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Qualidade em uso (4h): usabilidade, acessibilidade.",
+            "2. Design centrado no usuário (8h): diretrizes, pesquisa, personas, jornadas de usuário, modelagem (especificação) e ferramentas.",
+            "3. Projeto de interação (16h): diretrizes, criação, modelagem (especificação) e ferramentas.",
+            "4. Design de software e interfaces gráficas (8): padrões arquiteturais para design da camada de apresentação (MVC, MVP, MVVM e outros).",
+            "5. Implementação de interfaces (20h).",
+            "6. Modelos de validação de experiência (8h): modelos, métodos e técnicas para validação de experiência do usuário."
+        ],
+        "condicoesMinimas": [
+            "(Faz com orientação). Explicar a construção de software, experiência do usuário e a relação com a Engenharia de Software e a noção se sistema.",
+            "(Faz com orientação). Usar e configurar ferramentas para edição, documentação, compilação, depuração (debugging), build, teste, controle de versão, coleta de medidas (desempenho, consumo de memona, análise estática e cobertura), integração contínua, e aplicativos fundamentais de linha de comandos.",
+            "(Faz com orientação). Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
+            "(Segue instruções). Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+            "(Segue instruções). Detalhar projeto (design) em conformidade com requisitos de software.",
+            "(Segue instruções). Colaborar com a construção de código em equipe.",
+            "(Segue instruções). Auxiliar na criação de requisitos de usabilidade.",
+            "(Segue instruções). Criar e registrar projeto de interação que atende requisitos de usabilidade.",
+            "(Faz com orientação). Usar ferramentas e bibliotecas para o desenvolvimento de código de interfaces.",
+            "(Faz com orientação). Criar código em conformidade com o projeto de interação correspondente."
+        ]
+    },
+    {
+        "id": "D28",
+        "nome": "Arquitetura de Software",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "7°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Conceitos (4h): software, qualidade de software, requisitos de software, arquitetura de software e projeto detalhado.",
+            "2. Requisitos funcionais e requisitos de qualidade (8h): conceituação e identificação de requisitos relevantes para a arquitetura.",
+            "3. Documentação de arquitetura de software (8h).",
+            "4. Fundamentos de arquitetura de software (4h): importância, contexto, estilos.",
+            "5. Método de desenvolvimento de arquitetura de software (8h).",
+            "6. Técnicas para satisfazer requisitos de qualidade (16h).",
+            "7. Criação de arquiteturas de software (16h)."
+        ],
+        "condicoesMinimas": [
+            "(Faz sem orientação). Explicar o que é software, qualidade de software, requisitos de software, arquitetura de software, projeto detalhado, e a relação entre eles.",
+            "(Faz com orientação). Compreender a documentação de arquitetura de software.",
+            "(Segue instruções). Documentar arquitetura de software.",
+            "(Segue instruções). Criar arquitetura de software."
+        ]
+    },
+    {
+        "id": "D29",
+        "nome": "Requisitos de Software",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "7°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Processo de requisitos (16h): definições básicas, eliciação de requisitos, análise de requisitos, especificação de requisitos, verificação e validação de requisitos.",
+            "2. Modelos e métodos da engenharia de requisitos (32).",
+            "3. Gerência de projetos de engenharia de requisitos (8).",
+            "4. Processo de projeto arquitetural (8h): relação com requisitos."
+        ],
+        "condicoesMinimas": [
+            "(Faz sem orientação). Explicar requisitos de software, a relação dessa área de conhecimento com as demais da engenharia de software, arquitetura de software em especial, e a relação com o conceito de sistema.",
+            "(Segue instruções). Usar um processo de requisitos de software.",
+            "(Segue instruções). Eliciar de requisitos de software.",
+            "(Segue instruções). Construir modelos conceituais de software.",
+            "(Segue instruções). Especificar requisitos de software.",
+            "(Faz com orientação). Verificar e validar requisitos de software.",
+            "(Segue instruções). Identificar e utilizar ferramentas de requisitos de software.",
+            "(Faz sem orientação). Colaborar em uma equipe na execução de um processo de requisitos."
+        ]
+    },
+    {
+        "id": "D30",
+        "nome": "Governança e Gestão de Serviços de Software",
+        "nucleo": "NC",
+        "teo": 48,
+        "pra": 16,
+        "total": 64,
+        "periodo": "7°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Governança (8h): governança corporativa; governança de TI (GTI); governança de Software (GS); princípios da GS; conformidade (compliance); alinhamento dos serviços de software ao negócio da organização; normas, frameworks, padrões, modelos de qualidade e de maturidade de GS.",
+            "2. Abordagens para GS (8h): aplicação de abordagens de GS em um contexto organizacional. Objetivos de controle para GS; indicadores e avaliação de desempenho de software; direcionamento, avaliação e controle do uso de serviços de software para apoiar os objetivos de uma organização.",
+            "3. Planejamento e controle estratégico de software (8h): alinhamento entre objetivos organizacionais e objetivos relacionados a software; avaliação, direcionamento e monitoramento de processos de software; diagnóstico de maturidade de processos de software; alinhamento de políticas de software ao plano diretor de TI de uma organização. Gestão de riscos de software; riscos organizacionais; riscos relacionados à segurança física e lógica de software.",
+            "4. Governança de dados (8h): Segurança da informação em uma organização; Segurança de software.",
+            "5. Software como um serviço (SaaS) (8h): serviços de Software (SS); gestão de Serviços de Software (GSS); Estratégia organizacional para SS; Modelos, normas e padrões relacionados à GSS.",
+            "6. Ciclo de vida de SS (8h): planejamento; desenvolvimento; implantação e sustentação; Operação de SS e apoio (suporte) à operação de SS; Descontinuação de SS.",
+            "7. Manutenção de SS (8h): correção, adaptação e evolução de SS; gestão de incidentes e problemas em SS; controle de mudança e de configuração; controle de qualidade.",
+            "8. Gerência de processos de negócio (BPM - Business Process Management) aplicada à GSS (8h): representação de SS como processos de negócio; notação para modelagem de processos de negócio (BPMN); análise, validação e evolução de processos de negócio e de SS."
+        ],
+        "condicoesMinimas": [
+            "(Segue instruções). Planejar a estratégia de software para uma organização, considerando a pouca disponibilidade de informações de longo prazo, a escassez de recursos para implementação dessa estratégia e a necessidade de alinhamento entre a GS e a governança corporativa.",
+            "(Faz com orientação). Controlar o uso atual e futuro de software, otimizando o seu valor agregado para o negócio da organização.",
+            "(Segue instruções). Planejar e implementar (projetar, desenvolver, implantar, monitorar, medir, controlar e sustentar) uma estratégia organizacional para GSS em conformidade com o plano estratégico da organização.",
+            "(Faz com orientação). Modelar SS e processos de negócio, usando BPMN, em conformidade com os requisitos organizacionais dos processos e serviços."
+        ]
+    },
+    {
+        "id": "D31",
+        "nome": "Software para Sistemas Ubíquos",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "8°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Sistemas de informação que fazem uso de dispositivos (ubíquos) (16h): smartphones, sensores, internet das coisas (IoT), stream analytics e aspectos de segurança (vulnerabilidades, criptografia, certificados digitais).",
+            "2. Definição de arquiteturas para soluções móveis (16): conectar serviços, possivelmente de grande volume, fluxo e em tempo real, com a necessidade de analisá-los.",
+            "3. Desenvolvimento de código para smartphone, sensor ou outro dispositivo capaz de alimentar/receber informações de sistema de informação (32h)."
+        ],
+        "condicoesMinimas": [
+            "(Faz com orientação). Explicar a construção de software, dispositivos e a relação desses com a engenharia de software e de sistema.",
+            "(Faz sem orientação). Explicar a construção de software e a relação dessa área de conhecimento com as demais da engenharia de software.",
+            "(Faz com orientação). Usar e configurar ferramentas para edição, compilação, depuração (debugging), build, teste, controle de versão, coleta de medidas (desempenho, consumo de memória, análise estática e cobertura), integração contínua, e aplicativos de linha de comandos para busca e encadear comandos.",
+            "(Faz com orientação). Criar código orientado a objetos em conformidade com o projeto (design) detalhado seguindo estratégias recomendadas.",
+            "(Faz com orientação). Usar processos para a construção de software (criação de código, controle de versão, inspeção e integração).",
+            "(Faz com orientação). Detalhar projeto (design) em conformidade com requisitos de software.",
+            "(Faz com orientação). Detalhar projeto de interação (design) em conformidade com requisitos de software.",
+            "(Faz com orientação). Localizar e reutilizar código (bibliotecas e frameworks).",
+            "(Faz com orientação). Colaborar com a construção de código em equipe.",
+            "(Faz com orientação). Explicar a construção de software, segurança e a relação desses com a engenharia de software e de sistema.",
+            "(Segue instruções). Auxiliar na criação de modelo de ameaça.",
+            "(Segue instruções). Criar código que faz uso de recursos de segurança (criptografia de dados, assinatura e verificação de assinatura digital)."
+        ]
+    },
+    {
+        "id": "D32",
+        "nome": "Software para Persistência de Dados",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "8°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Visão geral de persistência (12h): arquivos em formato texto/binário. Serialização de objetos. Documentos XML. JSON. Bancos de dados relacionais. Bancos NoSql.",
+            "2. Modelagem e implementação de bancos de dados (28h).",
+            "3. Mapeamento entre 00 e relacional (8h).",
+            "4. Refatoração de bancos de dados (8h).",
+            "5. Integração de bancos de dados (8h)."
+        ],
+        "condicoesMinimas": [
+            "(Faz com orientação). Explicar a construção de software, persistência e a relação desses com a engenharia de software e de sistema.",
+            "(Segue instruções). Identificar e usar estratégia adequada de persistência de dados para um dado problema.",
+            "(Faz com orientação). Usar ferramentas para definição e manipulação de bancos de dados.",
+            "(Faz com orientação). Criar código que cria, busca, atualiza e remove dados em bancos de dados.",
+            "(Segue instruções) Refatorar (refactoring) bases de dados.",
+            "Faltou exigências de construção (anteriores)."
+        ]
+    },
+    {
+        "id": "D33",
+        "nome": "Padrões de Arquitetura de Software",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "8°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Conceitos (12h): arquitetura de software e padrões de arquitetura (blackboard, microservices, invocação implícita, arquitetura orientada a serviços, multitier, arquitetura orienta a eventos, plugin, filtros e pipes, MVC.",
+            "2. Norma ISO/IEC/IEEE 42010:2011 (8h).",
+            "3. Análise (avaliação) de arquiteturas de software (12h).",
+            "4. Criação de arquiteturas de software (32h)."
+        ],
+        "condicoesMinimas": [
+            "(Faz sem orientação). Compreender a documentação de arquitetura de software.",
+            "(Faz com orientação). Explicar padrões de arquitetura e ilustrar o uso.",
+            "(Faz com orientação). Documentar arquitetura de software.",
+            "(Segue instruções). Realizar análise de arquitetura de software.",
+            "(Segue instruções). Criar arquitetura de software que se beneficia de padrões de arquitetura."
+        ]
+    },
+    {
+        "id": "D34",
+        "nome": "Teste de Software",
+        "nucleo": "NC",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "8°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Processo de construção (8h): definições básicas, atividades e documentação.",
+            "2. Processo de Teste de Software (56): definições básicas, técnicas de teste, teste baseado em intuição e experiência do engenheiro de software, atividades do processo, documentação e ferramentas.",
+            "3. ",
+            "4. ",
+            "5. ",
+            "6. ",
+            "7. ",
+            "8. ",
+            "9. ",
+            "10. "
+        ],
+        "condicoesMinimas": [
+            "(Faz sem orientação). Explicar o teste de software, a relação dessa área de conhecimento com as demais da engenharia de software e a relação com o conceito de sistema.",
+            "(Segue instruções). Usar um processo de teste de software.",
+            "(Segue instruções). Desenvolver planos de teste para o teste de unidade.",
+            "(Faz com orientação). Propor casos de teste segundo algum critério da técnica de teste funcional para o teste de unidade.",
+            "(Faz com orientação). Propor casos de teste segundo algum critério da técnica de teste estrutural para o teste de unidade.",
+            "(Faz com orientação). Construir código para automação do teste de software.",
+            "(Segue instruções). Aplicar teste exploratório no teste de sistema.",
+            "(Faz sem orientação). Executar casos de teste.",
+            "(Faz sem orientação). Citar e explicar métricas de teste de software.",
+            "(Segue instruções). Realizar medições pertinentes a teste de software.",
+            "(Faz com orientação). Documentar atividades do teste de software.",
+            "(Segue instruções). Identificar e utilizar ferramentas de teste de software."
+        ]
+    },
+    {
+        "id": "D35",
+        "nome": "Prática em Engenharia de Software",
+        "nucleo": "NC",
+        "teo": 0,
+        "pra": 320,
+        "total": 320,
+        "periodo": "9°",
+        "unidade": "INF",
+        "obrigatoria": "Sim",
+        "preRequisito:": [],
+        "descricao": "O egresso do BES passa pela vivência de dois tipos de experiências práticas diferentes em suas essências. O primeiro grupo de experiências é composto pelas experiências promovidas nas atividades práticas realizadas de maneira contínua e integrada desde o início do curso, no contexto das diversas disciplinas teórico-práticas que compõem a grade curricular do BES. O segundo tipo de experiências é proporcionado pela disciplina \"Prática em Engenharia de Software\", que envolve a participação integral do aluno em projetos reais de Engenharia de Software realizados em ambiente típico da indústria de software. É importante contrapor esse cenário de \"projeto real\", onde todas as competências são exigidas, com o cenário das atividades práticas realizadas dentro do contexto de uma disciplina, normalmente limitado pelo conteúdo da própria disciplina. A Engenharia de Software compreende o uso de processos. Tais processos são claramente explicitados no projeto pedagógico do curso e podem ser classificados em dois grandes tipos: Processos Técnicos de Engenharia de Software e Processos de Gestão de Engenharia de Software. Além disso, o domínio de Tecnologias de Engenharia de Software, aplicadas tanto a processos técnicos quanto a processos de gestão de Engenharia de Software, é uma competência obrigatória para o profissional que trabalha com software. Assim, pode-se considerar que o Engenheiro de Software deve ser capaz de realizar atividades que envolvem três tipos de competências: técnicas, gerenciais e tecnológicas. A disciplina \"Prática em Engenharia de Software\" fornece o ambiente necessário para o amadurecimento das competências dos estudantes, pela aquisição de conhecimentos e desenvolvimento de habilidades e atitudes como profissional de Engenharia de Software. Esta prática acontece na fase final do currículo, na qual são reforçadas as habilidades, competências e conhecimentos adquiridos ao longo das disciplinas teórico-práticas do curso, em um ambiente que representa de forma realista os cenários que serão experimentados na vida profissional do Engenheiro de Software. O INF possui uma Fábrica de Software (FS/INF) [CUSUMANO]. O termo \"Fábrica\" indica um comprometimento de longo prazo e de esforços integrados, acima do nível de projetos individuais, para aprimorar todas as operações de obtenção de software [AAEN]. NA FS/INF, os projetos têm como objetivo atender as necessidades de usuários e patrocinadores reais, ou seja, visam a geração de produtos e/ou a prestação de serviços em Engenharia de Software para a sociedade. Dessa forma, os projetos precisam atender, por exemplo, requisitos de qualidade, de escopo e restrições de custo e prazo definidos pelas partes interessadas do projeto em questão. Além disso, a FS/INF também é responsável por garantir os requisitos definidos pelas normas técnicas aplicáveis de Engenharia de Software. Todas as atividades da Prática em Engenharia de Software previstas no BES são realizadas na FS/INF, sob a supervisão direta de docentes do Instituto de Informática. Portanto, a cada semestre letivo, a FS/INF recebe docentes e estudantes que atuarão nos seus projetos. Cabe ressaltar que, embora os projetos e as atividades da FS/INF não estejam limitados pelo calendário acadêmico, existe um compromisso entre a FS/INF e o curso de BES assegurando que o processo de Gestão do Portfólio da Fábrica selecionará os projetos e as atividades que apresentem condições adequadas ao exercício das práticas de Engenharia de Software pelos estudantes como descritas nesse PPC. Desta forma, o estudante terá a oportunidade concreta de integrar teoria e prática, envolvendo-se em situações-problema geradas pela experiência de campo e que exigem atividades de pesquisa, consultorias, debates e adoção de novas condutas. É também uma oportunidade para que o estudante seja avaliado quanto à sua atitude ética e profissional, quanto ao respeito às normas institucionais da FS/INF e quanto à sua relação com os demais envolvidos no projeto, incluindo usuários e patrocinadores. A \"Prática em Engenharia de Software\" é realizada pelo estudante preferencialmente após ter obtido aprovação nas demais disciplinas do BES. A disciplina é integralizada com 320 horas de atividades relacionadas a projetos da FS/INF, é ofertada a cada semestre letivo e os docentes atuam como preceptores. Neste sentido, o docente é o profissional responsável pela integração teoria-prática ao longo do projeto, ensinando, supervisionando, orientando e conduzindo o aluno na prática efetiva de sua futura profissão. Os estudantes são divididos em três grupos para melhor acompanhamento das atividades. Cada grupo, em um dado instante, realiza um tipo de atividade típica do exercício profissional: processos técnicos, processos de gestão ou domínio de tecnologias. Ao final da disciplina, é garantido que todos os grupos vivenciaram atividades dos três tipos. A avaliação do estudante é formativa, enfatizando o seu acompanhamento durante todo o período letivo, com o intuito de não apenas verificar se o estudante está alcançando os objetivos propostos, mas também informando seus erros e acertos, além de promover o estímulo necessário para continuar os estudos e o seu desenvolvimento. Concluindo, a disciplina \"Prática em Engenharia de Software\" favorece um ensino baseado na prática, com foco centrado na ética e na postura do profissional de Engenharia de Software perante os desafios que ocorrem quando se trabalha com software, que é um dos artefatos mais complexos que a humanidade produz. Quando o estudante atua em atividades práticas relevantes para a sua futura vida profissional, enfrentando os desafios reais de sua profissão ainda durante sua formação, sua compreensão se torna cada vez mais crítica e comprometida com a sociedade na qual se insere. Portanto, essa disciplina estimula e valoriza as dimensões ética e humanística na formação do Engenheiro de Software, desenvolvendo atitudes e valores orientados para a cidadania e para o desenvolvimento da sociedade.",
+        "ementa": [
+            "1. Aplicação do corpo de conhecimento da Engenharia de Software no contexto de projetos realizados em uma Fábrica de Software (320h): emprego de processos de Engenharia de Software em abrangência e profundidade; seleção e utilização de normas, métodos, técnicas e ferramentas de Engenharia de Software para atingir objetivos estabelecidos no projeto; integração e consolidação de conhecimentos e habilidades esperadas do profissional de Engenharia de Software; exercício de práticas e atitudes profissionais embasadas no código de ética e na postura profissional da Engenharia de Software; prática em processos técnicos de Engenharia de Software; prática em Gestão de Engenharia de Software; prática em Tecnologias de Engenharia de Software."
+        ],
+        "condicoesMinimas": [
+            "(Faz sem orientação). Realizar pacotes de trabalho, desenvolvendo produtos ou serviços dentro de um projeto na Fábrica de Software, aplicando as disciplinas que formam o corpo de conhecimento da Engenharia de Software.",
+            "(Faz sem orientação). Planejar, realizar e modificar de forma apropriada produtos e serviços pertinentes a processos organizacionais da Engenharia de Software, dentro do contexto da Fábrica de Software.",
+            "(Faz sem orientação). Atuar individualmente e nas equipes de trabalho segundo o código de ética e a postura profissional da Engenharia de Software."
+        ]
+    },
+    /* DISCIPLINAS OPTATIVAS*/
+    {
+        "id": "D36",
+        "nome": "Sistemas Operacionais",
+        "nucleo": "NE",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "3°",
+        "unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [
+            "D5"
+        ],
+        "ementa": [
+            "1. Conceitos de Hardware e Software.",
+            "2. Tipos de Sistemas Operacionais. Organização da Estrutura Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos.",
+            "3. Estudos de casos de sistemas operacionais atuais."
+        ]
+    },
+    {
+        "id": "D37",
+        "nome": "Pesquisa Operacional",
+        "nucleo": "NE",
+        "teo": 64,
+        "pra": 0,
+        "total": 64,
+        "periodo": "3°",
+        "unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [
+            "D8"
+        ],
+        "ementa": [
+            "1. Modelagem.",
+            "2. Problema de Programação Linear (PL). Resolução gráfica de PL.",
+            "3. Algoritmo Simplex. Dualidade. Algoritmo Simplex-Dual.",
+            "4. Pós-otimização e Análise de Sensibilidade."
+        ]
+    },
+    {
+        "id": "D38",
+        "nome": "Linguagens Formais e Autômatos",
+        "nucleo": "NE",
+        "teo": 64,
+        "pra": 0,
+        "total": 64,
+        "periodo": "3°",
+        "unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [
+            "D4"
+        ],
+        "ementa": [
+            "1. Conceitos básicos de linguagens.",
+            "2. Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres de contexto e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais propriedades.",
+            "3. Hierarquia de Chomsky."
+        ]
+    },
+    {
+        "id": "D39",
+        "nome": "Redes de computadores",
+        "nucleo": "NE",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "4°",
+        "Unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [
+            "D36"
+        ],
+        "ementa": [
+            "1. Fundamentos.",
+            "2. Arquitetura de Redes TCP/IP (Internet).",
+            "3. Camadas de Aplicação, Transporte, Rede, Enlace e Física.",
+            "4. Gerenciamento de Redes.",
+            "5. Redes Sem Fio e Mobilidade.",
+            "6. Estudo de Caso de Tópicos Emergentes em Redes."
+        ]
+    },
+    {
+        "id": "D40",
+        "nome": "Introdução à Língua Brasileira de Sinais",
+        "nucleo": "NE",
+        "teo": 64,
+        "pra": 0,
+        "total": 64,
+        "periodo": "4°",
+        "unidade": "LETRAS",
+        "obrigatoria": "Não",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares.",
+            "2. Concepções sobre a Língua de Sinais.",
+            "3. O surdo e a sociedade."
+        ]
+    },
+    {
+        "id": "D41",
+        "nome": "Compiladores",
+        "nucleo": "NE",
+        "teo": 64,
+        "pra": 0,
+        "total": 64,
+        "periodo": "4°",
+        "unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [
+            "D11, D37"
+        ],
+        "ementa": [
+            "1. A estrutura de um compilador.",
+            "2. Análises léxica e sintática.",
+            "3. Definições dirigidas por sintaxe e análise semântica.",
+            "4. Organização da tabela de símbolos.",
+            "5. Representação intermediária do programa-fonte.",
+            "6. Geração do código-objeto da compilação",
+            "7. Introdução à otimização do código-objeto",
+            "8. Implementação de um compilador"
+        ]
+    },
+    {
+        "id": "D42",
+        "nome": "Sistemas Distribuídos",
+        "nucleo": "NE",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "8°",
+        "unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [
+            "D10"
+        ],
+        "ementa": [
+            "1. Introdução a Sistemas Distribuídos",
+            "2. Invocação Remota",
+            "3. Obejtos Distribuídos",
+            "4. Arquiteturas Orientadas a Serviços e utilização de serviços Web.",
+            "5. Computação Móvel e Ubíqua Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos."
+        ]
+    },
+    {
+        "id": "D43",
+        "nome": "Metodologia e Experimentação em Engenharia de Software",
+        "nucleo": "NE",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "8°",
+        "unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Metodologia Científica (16h): aplicação de metodologia científica em atividades de Engenharia de Software.",
+            "2. Fundamentos da Engenharia de Software Experimental (16h): contexto da experimentação na Engenharia de Software; principais tipos de experimentos aplicados à Engenharia de Software; estudos primários e secundários; revisão e mapeamento sistemático da literatura.",
+            "3. Realização de Experimentos em Engenharia de Software (32h)."
+        ],
+        "condicoesMinimas": [
+            "(Faz com orientação). Aplicar princípios científicos da Engenharia de Software Experimental na realização de experimentos com software.",
+            "(Segue instruções). Realizar estudo secundário sistemático em Engenharia de Software."
+        ]
+    },
+    {
+        "id": "D44",
+        "nome": "Mercado e Economia de Software",
+        "nucleo": "NE",
+        "teo": 32,
+        "pra": 32,
+        "total": 64,
+        "periodo": "8°",
+        "unidade": "INF",
+        "obrigatoria": "Não",
+        "preRequisito:": [],
+        "ementa": [
+            "1. Modelos de negócio para software (aluguel, serviço, código aberto).",
+            "2. Leis, normas, impostos e legislação brasileira para o mercado local e para a exportação de software.",
+            "3. Programas de incentivo à exportação e à produção de software.",
+            "4. Características e exigências do mercado interno e externo.",
+            "5. Identificação de oportunidades de inovação em software.",
+            "6. Planos de negócio de software para o mercado nacional e global.",
+            "7. Engenharia Econômica. Fornecimento, demanda e produção. Lucro produzido por capital (interest). Análise custo-benefício. Análise breakeven. Retorno de investimento. Avaliação de alternativas. Economia aplicada ao desenvolvimento de software."
+        ],
+        "condicoesMinimas": [
+            "(Segue instruções). Explicar a relação entre decisões técnicas e o alinhamento com objetivos de negócio no qual software está inserido.",
+            "(Segue instruções). Explicar as principais leis e normas pertinentes à indústria de software no Brasil.",
+            "(Segue instruções). Elaborar plano de negócio para software inovador."
+        ]
+    }
+]
