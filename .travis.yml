@@ -13,10 +13,8 @@ deploy:
   local_dir: build
   on:
     branch: master
-
 dist: trusty
 sudo: required
-
 addons:
   sonarcloud:
     organization: "thealexandrelara-github"
