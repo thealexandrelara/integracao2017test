@@ -1,0 +1,31 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - node_modules
+script:
+  - npm run build
+deploy:
+  provider: surge
+  domain: integracao2017r.surge.sh
+  skip_cleanup: true
+  local_dir: build
+  on:
+    branch: master
+
+dist: trusty
+sudo: required
+
+addons:
+  sonarcloud:
+    organization: "thealexandrelara-github"
+    token:
+      secure: $sonar_token
+jdk:
+  - oraclejdk8
+script:
+  - sonar-scanner
+cache:
+  directories:
+    - '$HOME/.sonar/cache'
